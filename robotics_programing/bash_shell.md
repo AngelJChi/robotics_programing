@@ -120,11 +120,9 @@ nano name.md
 
 	Once you finish the document, press
 		Ctrl X to exit
-		Modify or not?: Y/N
+		Modify or not?: Ctrl Y / Crtl N
 		Press enter
-
-	To force the exit, press
-	:q!
+	
 ```
 
 
