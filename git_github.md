@@ -136,7 +136,7 @@ git branch -list
 If you want to create a new branch, use:
 
 ```sh
-git branch -b name
+git branch -M name
 ```
 
 If you want to delete a branch, use:
