@@ -1,5 +1,5 @@
 # Command line of git
-## By Angel Chi
+## By Angel Chi 2C
 
 ## git init 
 git init is used to create a new local GIT repository.
